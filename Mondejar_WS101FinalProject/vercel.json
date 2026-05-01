@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/html/home.html" },
+    { "source": "/home", "destination": "/html/home.html" },
+    { "source": "/products", "destination": "/html/products.html" },
+    { "source": "/gallery", "destination": "/html/gallery.html" },
+    { "source": "/about", "destination": "/html/about.html" },
+    { "source": "/contact", "destination": "/html/contact.html" },
+    { "source": "/order", "destination": "/html/order.html" },
+    { "source": "/favorites", "destination": "/html/favorites.html" },
+    { "source": "/index", "destination": "/html/index.html" }
+  ]
+}
